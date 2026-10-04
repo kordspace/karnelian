@@ -2,7 +2,7 @@
   <img src="assets/logos/carnelian-logo.png" alt="Carnelian Logo" width="120">
 </p>
 
-<h1 align="center">CARNELIAN</h1>
+<h1 align="center">KARNELIAN</h1>
 
 <p align="center">
   <img src="assets/logos/banners/carnelian-v1-banner-animated.gif" alt="Carnelian Banner" width="100%">
